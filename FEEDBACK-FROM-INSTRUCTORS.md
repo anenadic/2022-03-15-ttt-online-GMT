@@ -6,3 +6,4 @@
 - people liked episodes on motivation, equity, accessibility
 - make sure homework is mentioned in the intro letter so learners can actually read/prepare in advance and not leave it for overnight reading after day 1
 - blind spot around the use of stickie notes - many people never attended an in person workshop before
+- self-organisede workshops do not mention creation of a workshop website as a task
