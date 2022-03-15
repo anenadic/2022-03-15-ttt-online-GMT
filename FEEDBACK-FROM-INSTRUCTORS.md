@@ -5,3 +5,4 @@
 - live teaching exercise should not be at the end as any slip of the chedule leaves not enough time for that exercise - could be moved to earlier in the afternoon to have more breakout / group work
 - people liked episodes on motivation, equity, accessibility
 - make sure homework is mentioned in the intro letter so learners can actually read/prepare in advance and not leave it for overnight reading after day 1
+- blind spot around the use of stickie notes - many people never attended an in person workshop before
