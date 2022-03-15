@@ -3,3 +3,4 @@
 - Teaching exercise at the end of Day 1 is very tiring
 - Course too long again
 - live teaching exercise should not be at the end as any slip of the chedule leaves not enough time for that exercise - could be moved to earlier in the afternoon to have more breakout / group work
+- people liked episodes on motivation, equity, accessibility
