@@ -2,3 +2,4 @@
 - Parsons problems, fill in the blanks, and other guided practice examples - no examples of where they are used in materials
 - Teaching exercise at the end of Day 1 is very tiring
 - Course too long again
+- live teaching exercise should not be at the end as any slip of the chedule leaves not enough time for that exercise.
