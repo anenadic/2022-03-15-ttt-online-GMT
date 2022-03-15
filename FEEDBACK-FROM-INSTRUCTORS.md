@@ -1,0 +1,4 @@
+- Chunking does not fit well, people do not see the purporse - I'd recommend cutting out the second exercise. also not clear where it is used in Carpentries material
+- Parsons problems, fill in the blanks, and other guided practice examples - no examples of where they are used in materials
+- Teaching exercise at the end of Day 1 is very tiring
+- Course too long again
