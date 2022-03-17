@@ -10,3 +10,4 @@
 - "Teaching Your Trajectory: Workshop 101" section title in episode "Launches and Landings" is not clear and also uses a jargon "101" that may not be universally understood 
 - No time to do the creation of workshop exercise
 - In episdoe on EIA, the sentence "What is a decision you might make in a workshop that could look different if you were actively considering the core value you chose?" in one of the exercises was hard to parse and understand by learners - consider rewording.
+- Homework in between the days should be pitched as "reminder of what you have been reading ahead of the workshop and preparation for the following day" as it appears as we are asking people to do extra tasks after a very long first day
