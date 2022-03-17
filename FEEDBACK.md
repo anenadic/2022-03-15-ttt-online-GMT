@@ -54,3 +54,52 @@
 * A jargon busting reference would be great - AND/OR access to your slides so we can go back a few pages if we missed a definition. E.g. Can't remember the definitions of "concept map" vs "mental model" vs "analogy". Don't have any link to reference today's slides to get a quick reminder. Same again for "formative" - I forgot the definition! E.g. in the Etherpad exercise: "Any instructional tool that generates feedback that is used in a formative way can be described as 'formative assessment.'"
 * you are doing very good. I want to be as good as you on the feedback issue
 * A bit long talking sessions, so easy to drop out
+
+
+# Day 1 Afternoon Session
+
+## Write one thing you learned that you found useful. What went well?
+
+* The teaching were helpful. Especially, the teaching on accessibility, and equity.
+* value all contributions
+* Providing options for learners for sharing of information, reaching the teacher, and giving feedback. This will ensure that no student is limited in their participation.
+* Multiple ways of engaging with students in a virtual setting. The way you saw when we had returned by using the prompts was both great for us to interact with one another while having something to do while we waited, while also letting you know when we're ready to begin - I'll use that strategy in the future!
+* I learnt about the use of concept maps.
+* I very much liked that session. The part about motivation and demotivation was great, as well as steriotypes
+* Good use of etherpad as a collaborative tool.
+* liked the exercises + the use of etherpad
+* How important the pedagogic skills are beside competence in what we teach. I like the etherpad very much.
+* Enjoyed the breakout session - nice to do some role-playing and have some more interaction with other learners
+* Discussion on accessibility very enlightening. I now see why a plethora of communication tools can engage a wider range of abilities.
+* Great content on motivation and accessibility.
+* The etherpad is a great tool to promote engagement in the session.
+* I like the discussion around motivation and how to maintain it over time both for learners and instructors.
+* How to give feedback
+* Breakout sessions were helpful. Great to receive feedback and learn from that.
+* I found it useful to learn about how to use formative feedback. Particularly around how to use multiple choice questions effectively to gauge learning and expose specific misunderstandings.
+* Breakoutrooms are really nice
+* Not use jargon, be more inclusive
+* the course is very intensive, but in a good way
+* giving structured feedback
+
+## What was unclear in the material? What can we improve upon?
+
+* It was not clear on how I can apply it to my domain of teaching which is Chemistry.
+* - a bit more fun in the talk would be nice - material is well, but concentrating is pretty hard for a whole day
+* Areas of improvement: None, I enjoyed every session
+* I cannot think of anything that was unclear. I look forward to returning tomorrow!
+* I did not get a clear picture that carpentry is purely computation and coding.
+* Learning about the UDL principles was great but I felt this part was a bit quick and could have been elaborated more how to put in practise
+* Some of the slides were very difficult to read. Fonts were very tiny. Please give us the URL of your slides BEFORE the session starts so we can follow! Also allows us to flick back a few slides to review a few things during the talk.
+* might be helpful to take enough time to introduce the exercises properly, so there is less need for time to read the instructions again and figuring out what has to be done Slides were not always clear - quite some text on it, but mainly keywords and not definitions
+* It was a very clear material so nothing much to improve.
+* Would prefer a few more shifts in tone, e.g. more role-playing sessions, more active learning, more pauses for quiet reading of relevant material even. It feels like a long time to be listening to a presentation, however interesting and well delivered the material!
+* Clearer up front instructions about lesson planning would very been good. I.e. prepare 90sec intro and 3 min live code session.
+* Seemed like lots of content for the afternoon, little time for final two exercises.
+* Some of the slides were a bit too dense (too much info on one screen). Maybe make slides with the idea of note taking in mind (make it easier to form notes on a topic based on the available written information).
+* There wasn't enough time for the last breakout session.
+* The assignments are not clear
+* More time during breakout sessions. More time for the material introduction
+* A little bit too much talking lessons. Could be broken up with more practical lessons in breakouts.
+* there was too few toilet breaks in the beginning.
+* the exercise were we have to choose between effort, improvement and performance
