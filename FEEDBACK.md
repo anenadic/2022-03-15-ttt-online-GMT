@@ -103,3 +103,56 @@
 * A little bit too much talking lessons. Could be broken up with more practical lessons in breakouts.
 * there was too few toilet breaks in the beginning.
 * the exercise were we have to choose between effort, improvement and performance
+
+# Day 2 Afternoon Session
+
+## What went well? Anything new that you learned that you'd like to try out in your teaching?
+
+* Matthew Interactive exercises in etherpad were great. I will be paying more attention to formative assessment and managing cognitive load for students
+* Wolfgang -live coding, use servays for feedback, think more about cognitive load and pace
+* Eduard - use formative assessments
+* Espen - icebreaker quizzes using post-its
+* Cora structured Feedback splited in content and performance
+* Pål Magnus I want to reread the scientific principles for learning and try to implement it systematically
+* Ragnhild - I want to be as good as the carpentries teachers on evaluation and online student participation...
+* Karl
+* David - making teaching as fun and social as possible
+* Ken - pacing the teaching. Good to have the notes beforehand so we could follow the links and go back when we missed something.
+* Stuart
+* Rashel- The engagement of the participants was well accounted for.
+* Adrian
+* Fabian Great to get theoretical background on why things work well / don't work, to understand how learning works (mental model, levels of expertise, guided practice tools)
+* Kenneth- Great ideas on teaching skills, what to say and what not to say during a teaching practice
+* Phillip - live coding
+* Heike -to always include feedback
+* Kathy - Great work teaching by example - I will try to emulate many of the teaching practices and strategies you used as you taught us these past two days! 
+* Ed - live coding, visualising mental models, better intros 😁
+* Charles
+* David - very inclusive friendly group.
+* Irene
+
+## What was unclear in the material? What can we improve upon?
+
+* Espen - More small breakouts
+* Cora the results of the feedback could have been better presented in the pad when the groups have been paised there rather than the names 
+the berakout room groups could have been mixed more often to get to know more people from the course,
+* Pål Magnus I think all links could be summarized in etherpad after every hour, chronologically
+* Ragnhild - I find it diffisult to be critical. This is a very professional scheme, but i would have replaced the word constructive with negative. "What was negative?" is a fair question. But OK.
+* Karl
+* David
+* Ken - latter part of the day we didn't get the slides beforehand. I found the schedule online though!
+* Stuart
+* Rashel- make cllear what is needed exactly in the break out session.
+* Adrian
+* Fabian- Timing of the presentations in the breakout rooms was hard, room closed during presentation
+* Kenneth - The timing did not favor the US population
+* Phillip - too many different links with information and stuff | a bit more joy would be nice
+* Heike - more breakout sessions, mix participants so they can get to know each other even online
+* Kathy - Everything I can think of would require more time! More breakouts would be great, as well as more practical exercises, but I know those would potentially be too time-intensive - perhaps replace a bit of the slide time with them
+* Ed - would be good to squeeze in a few more practical exercises, maybe some mini quizzes? Agree with others keen on more breakout sessions, these were a valuable change of pace
+* Charles
+* David - sharing of slides before the lessons. Much easier to click on a link in the slide.
+* Irene
+* Akhil
+* Amanda - it would be nice to capture some of the discussions from the breakout rooms across the whole group 
+* Eunice
